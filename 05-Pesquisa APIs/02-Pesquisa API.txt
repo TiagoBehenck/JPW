@@ -1,0 +1,18 @@
+Uma API que busca diversos informaçãoes sobre o universo de Star Wars! 
+
+The Star Wars API, or "swapi" (Swah-pee) is the world's first quantified and programmatically-accessible data source for all the data from the Star Wars canon universe!
+
+We've taken all the rich contextual stuff from the universe and formatted into something easier to consume with software. Then we went and stuck an API on the front so you can access 
+
+https://swapi.co/documentation
+
+https://swapi.co/api/
+
+{
+    "people": "https://swapi.co/api/people/", 
+    "planets": "https://swapi.co/api/planets/", 
+    "films": "https://swapi.co/api/films/", 
+    "species": "https://swapi.co/api/species/", 
+    "vehicles": "https://swapi.co/api/vehicles/", 
+    "starships": "https://swapi.co/api/starships/"
+}
